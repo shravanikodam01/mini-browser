@@ -6,4 +6,4 @@ A minimal browser built using Python and PyQt5.
 
 ```bash
 pip install -r requirements.txt
-python main.py
+python miniBrowser.py
